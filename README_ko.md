@@ -1,4 +1,4 @@
-# PooledBufferManagement
+# PooledBuffer
 
 네트워크 통신 및 데이터 처리 작업을 위한 메모리 단편화를 최소화하고 애플리케이션 성능을 향상시키는 `ArrayPool` 기반의 고성능 버퍼 관리 라이브러리입니다.
 
